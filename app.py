@@ -6,7 +6,7 @@ import plotly.express as px
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="AI Quality Visualizer", layout="wide")
 
-st.title("Balanced AI Governance: Risk-Quality Equilibrium Model")
+st.title("Balanced AI Governance: Risk-Quality Model")
 st.markdown("""
 ### Operationalizing the AI Quality Matrix
 This simulator demonstrates how trade-offs between **Data Quality**, **Product Quality**, and **Safety Guardrails** impact overall system trustworthiness. 

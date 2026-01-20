@@ -1,5 +1,5 @@
 # AI Governance: Balanced Risk-Quality Model
-
+[**📊 Run Interactive Simulator**](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
 This repository operationalizes a socio-technical approach to AI Governance, focusing on the equilibrium between risk mitigation and performance quality.
 
 ## Project Overview

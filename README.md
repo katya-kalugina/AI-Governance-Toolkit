@@ -1,17 +1,22 @@
-# AI Governance Toolkit: Trustworthiness & Quality Simulator
+# AI Governance: Balanced Risk-Quality Model
 
-This repository contains tools designed to operationalize **Responsible AI** by balancing risk-based and quality-based governance approaches.
+This repository operationalizes a socio-technical approach to AI Governance, focusing on the equilibrium between risk mitigation and performance quality.
 
-## 🚀 Interactive Simulator
-The core of this toolkit is an interactive model that visualizes the trade-offs between diverse AI trustworthiness characteristics:
-- **Data Quality** (ISO/IEC 25012)
-- **Product Quality** (ISO/IEC 25059)
-- **Quality in Use** (Human-centric effectiveness)
+## Project Overview
+The core of this toolkit is a computational model designed to visualize and analyze the trade-offs between diverse AI trustworthiness characteristics. In contrast to traditional governance frameworks that focus primarily on harm mitigation, this model incorporates quality dimensions as a prerequisite for ethical AI.
 
-## ⚖️ Research Background
-Traditional AI governance often focuses solely on risk mitigation. This project argues that **suboptimal quality itself constitutes a systemic risk**. By utilizing a "computational lens," we can identify the Pareto Frontier where technical reliability, operational safety, and fundamental rights reach an equilibrium.
+The framework integrates three interconnected quality models:
+- **Data Quality** (ISO/IEC 25012): Focuses on the trade-offs between data utility and privacy constraints.
+- **Product Quality** (ISO/IEC 25059): Evaluates technical reliability vs. safety-alignment intensity.
+- **Quality in Use**: Measures human-centric effectiveness and real-world impact.
 
-## 🛠️ Technical Stack
-- **Language:** Python
-- **Framework:** Streamlit (for interactive modeling)
-- **Logic:** Based on NIST AI RMF and ISO/IEC 25010/25059 frameworks.
+## Research Motivation
+Traditional AI governance often emphasizes risk mitigation at the expense of system performance. This project argues that **suboptimal quality itself constitutes a significant systemic risk**. By utilizing a "computational lens," the model identifies the Pareto Frontier where technical reliability, operational safety, and the protection of fundamental rights reach a functional equilibrium.
+
+## Technical Implementation
+- **Core Logic:** Based on the NIST AI RMF (Trustworthy AI characteristics) and ISO/IEC 25010/25059 frameworks.
+- **Methodology:** Computational modeling of trade-offs using Python.
+- **Interactive Component:** Developed with Streamlit to allow for empirical testing of governance parameters.
+
+---
+*Developed by Ekaterina Kalugina. Part of ongoing research into operationalizing Responsible AI.*

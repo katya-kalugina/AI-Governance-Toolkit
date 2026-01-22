@@ -8,6 +8,8 @@ A collection of practical tools and methodologies designed to operationalize Res
 
 ### [Balanced Risk-Quality Model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
 [**📊 Run Interactive Simulator**](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
+### [AI Risk Assessment Calculator](ВСТАВЬТЕ_ССЫЛКУ_ОТ_STREAMLIT_ЗДЕСЬ)
+An advanced scoring engine based on the **EDPB SPE 2025** guidelines. It features automated "Stopper Rules" for protecting absolute rights and provides a deterministic probability/severity heatmap.
 
 This component operationalizes a socio-technical approach to AI Governance, focusing on the equilibrium between risk mitigation and performance quality.
 

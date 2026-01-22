@@ -17,7 +17,7 @@ This component operationalizes a socio-technical approach to AI Governance, focu
 
 ---
 
-## ⚖️ Methodologies & Scoring
+## Methodologies 
 
 ### [AI Risk Assessment: Impact and Likelihood Scoring](./risk-assessment/impact-and-likelihood-scores.md)
 

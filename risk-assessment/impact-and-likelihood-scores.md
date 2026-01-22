@@ -1,6 +1,4 @@
 AI Risk Assessment: Impact and Likelihood Scoring
-This scoring methodology is designed to operationalize the EDPB SPE Programme guidelines (2025) and the FRASP framework for LLMs.
-
 ---
 
 ## 1. Probability (Likelihood)

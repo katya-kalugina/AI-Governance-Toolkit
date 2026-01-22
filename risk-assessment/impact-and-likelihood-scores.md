@@ -1,4 +1,6 @@
 AI Risk Assessment: Impact and Likelihood Scoring
+
+
 ---
 
 ## 1. Probability (Likelihood)
@@ -82,5 +84,5 @@ Final Risk Level is determined by the intersection of Probability and the Highes
 - **Low:** Acceptable risk. Maintain documentation and regular monitoring.
 
 ---
-*Source: Regulation (EU) 2024/1689 & EDPB SPE Programme (2025).*
+*Source: Regulation (EU) 2024/1689 & EDPB SPE Programme (2025).* 
 *Formatted by Ekaterina Kalugina.*

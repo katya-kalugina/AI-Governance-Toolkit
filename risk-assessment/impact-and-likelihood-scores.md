@@ -3,7 +3,7 @@ AI Risk Assessment: Impact and Likelihood Scoring
 
 ---
 
-## 1. Probability (Likelihood)
+## 1. Probability / Likelihood
 
 The probability of a risk materializing is calculated as the average of **7 key criteria**. Each criterion is scored on a scale of **1 to 4**.
 
@@ -32,7 +32,7 @@ The probability of a risk materializing is calculated as the average of **7 key 
 
 ---
 
-## 2. Severity (Impact)
+## 2. Severity / Impact
 
 Severity measures the impact on the rights and freedoms of natural persons.
 

@@ -6,10 +6,14 @@ A collection of practical tools and methodologies designed to operationalize Res
 
 ## Interactive Models
 
-### [Balanced Risk-Quality Model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
-[**📊 Run Interactive Simulator**](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
-### [AI Risk Assessment Calculator](ВСТАВЬТЕ_ССЫЛКУ_ОТ_STREAMLIT_ЗДЕСЬ)
-An advanced scoring engine based on the **EDPB SPE 2025** guidelines. It features automated "Stopper Rules" for protecting absolute rights and provides a deterministic probability/severity heatmap.
+### [Risk-Quality Model v.2](https://ai-governance-toolkit-v2-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
+An advanced socio-technical assessment tool that models the trade-offs between technical quality metrics (Art. 15 AI Act) and systemic safety. It identifies the "Reliability Gap" where performance degradation itself becomes a driver of systemic risk.
+
+### [AI System Classifier](https://ai-act-compliance-navigator-g7js7fwafmpct3dwk4qtjv.streamlit.app/)
+A deterministic decision-support tool for classifying AI systems under Regulation (EU) 2024/1689. It navigates through Prohibited Practices (Art. 5), High-Risk categories (Art. 6 & Annex III), and GPAI systemic risk thresholds.
+
+### [AI Role Navigator](https://ai-role-navigator-zjcqute523oxsv6hicsnrj.streamlit.app/)
+An algorithmic tool to determine the specific legal status of an entity within the AI lifecycle (Provider, Deployer, Importer, or Distributor). Includes logic for Article 25 regarding substantial modifications and branding of existing systems.
 
 This component operationalizes a socio-technical approach to AI Governance, focusing on the equilibrium between risk mitigation and performance quality.
 

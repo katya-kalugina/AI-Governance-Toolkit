@@ -9,11 +9,11 @@ A socio-technical framework for analyzing the trade-offs between Quality and Ris
 
 ### [AI System Classifier](https://ai-system-classifier-ywunrhw4gfav2mmzxx5jry.streamlit.app/)
 A deterministic logic tree for classifying AI systems according to the legal criteria of the EU AI Act (Regulation (EU) 2024/1689).
-- **Functionality:** Navigates Prohibited Practices (Art. 5), High-Risk AI (Art. 6 & Annex III), Transparency (Art. 50) and GPAI systemic risk thresholds.
+Navigates Prohibited Practices (Art. 5), High-Risk AI (Art. 6 & Annex III), Transparency (Art. 50) and GPAI systemic risk thresholds.
 
 ### [AI Role Navigator](https://ai-role-navigator-zjcqute523oxsv6hicsnrj.streamlit.app/)
 An interactive assessor for determining the legal status and obligations of operators within the AI lifecycle.
-- **Roles:** Identifies status as Provider, Deployer, Importer, or Distributor.
+Identifies status as Provider, Deployer, Importer, or Distributor.
 
 ### [AI Risk Assessment Calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/)
 A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP protocol.

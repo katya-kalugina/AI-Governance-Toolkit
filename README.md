@@ -2,7 +2,7 @@
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-> **Legal Notice:** All rights reserved. Commercial use, including integration into paid educational programs, corporate training, or consulting by third parties (including former partners) without express written consent from the author, is strictly prohibited under the terms of the CC BY-NC-SA 4.0 license.
+> **Legal Notice:** All rights reserved. Commercial use, including integration into paid educational programs, corporate training, or consulting by third parties without express written consent from the author, is strictly prohibited under the terms of the CC BY-NC-SA 4.0 license.
 
 A collection of computational models and decision-support tools designed to operationalize Responsible AI governance. This toolkit bridges the gap between high-level legal requirements (EU AI Act, GDPR) and technical implementation.
 

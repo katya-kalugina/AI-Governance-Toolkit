@@ -1,11 +1,4 @@
 # AI Governance Toolkit
-
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-
-> **Legal Notice:** All rights reserved. Commercial use, including integration into paid educational programs, corporate training, or consulting by third parties without express written consent from the author, is strictly prohibited under the terms of the CC BY-NC-SA 4.0 license.
-
-A collection of computational models and decision-support tools designed to operationalize Responsible AI governance. This toolkit bridges the gap between high-level legal requirements (EU AI Act, GDPR) and technical implementation.
-
 ---
 
 ### [Balanced AI Governance Model](https://ai-governance-toolkit-rgcqpsvbvnfywrrmfa6tv6.streamlit.app)
@@ -24,6 +17,19 @@ A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP pr
 - **Methodology:** Deterministic evaluation of Probability (7 factors) and Severity (11 dimensions).
 - **Compliance:** Automated "Stopper Rules" for absolute rights protection and real-time risk heatmap generation.
 
+---
 
 ---
-*Developed by Ekaterina Kalugina. Part of ongoing research into Socio-Technical AI Governance and Legal Engineering.*
+
+## License & Research Context
+
+This toolkit is part of ongoing research into **Socio-Technical AI Governance** and **Legal Engineering**.  
+Copyright (c) 2024-2026 Ekaterina Kalugina.
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- **Research and Personal Use:** Feel free to use, share, and adapt these materials for non-commercial purposes.
+- **Commercial Use:** Integration into paid educational programs, corporate training, commercial consulting services, or proprietary software without explicit written permission from the author is strictly prohibited.
+- **Attribution:** Any reuse must include appropriate credit to the original author.
+
+---

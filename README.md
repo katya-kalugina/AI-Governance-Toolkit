@@ -21,15 +21,19 @@ A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP pr
 
 ---
 
-## License & Research Context
+---
 
-This toolkit is part of ongoing research into **Socio-Technical AI Governance** and **Legal Engineering**.  
-Copyright (c) 2024-2026 Ekaterina Kalugina.
+## License & Intellectual Property
 
-This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-- **Research and Personal Use:** Feel free to use, share, and adapt these materials for non-commercial purposes.
-- **Commercial Use:** Integration into paid educational programs, corporate training, commercial consulting services, or proprietary software without explicit written permission from the author is strictly prohibited.
-- **Attribution:** Any reuse must include appropriate credit to the original author.
+Copyright (c) 2024-2026 **Ekaterina Kalugina**.
+
+This toolkit is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+* **Non-Commercial Use:** Integration into paid educational programs, corporate training, or commercial consulting services without explicit written permission is strictly prohibited.
+* **Research & Personal Use:** Feel free to use and adapt these materials for non-commercial purposes with proper attribution.
+
+*Part of ongoing research into Socio-Technical AI Governance and Legal Engineering.*
 
 ---

@@ -25,11 +25,9 @@ A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP pr
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-Copyright (c) 2024-2026 **Ekaterina Kalugina**.
-
+Copyright (c) 2024-2026 Ekaterina Kalugina.
 This toolkit is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-* **Non-Commercial Use:** Integration into paid educational programs, corporate training, or commercial consulting services without explicit written permission is strictly prohibited.
-* **Research & Personal Use:** Feel free to use and adapt these materials for non-commercial purposes with proper attribution.
+* Non-Commercial Use: Integration into paid educational programs, corporate training, or commercial consulting services without explicit written permission is strictly prohibited.
+* Research & Personal Use: Feel free to use and adapt these materials for non-commercial purposes with proper attribution.
 
 ---

@@ -6,7 +6,6 @@ A socio-technical framework for analyzing the trade-offs between Quality and Ris
 
 ### [AI System Classifier](https://ai-system-classifier-ywunrhw4gfav2mmzxx5jry.streamlit.app/)
 A deterministic logic tree for classifying AI systems according to the legal criteria of the EU AI Act (Regulation (EU) 2024/1689).
-Navigates Prohibited Practices (Art. 5), High-Risk AI (Art. 6 & Annex III), Transparency (Art. 50) and GPAI systemic risk thresholds.
 
 ### [AI Role Navigator](https://ai-role-navigator-zjcqute523oxsv6hicsnrj.streamlit.app/)
 An interactive assessor for determining the legal status and obligations of operators within the AI lifecycle.

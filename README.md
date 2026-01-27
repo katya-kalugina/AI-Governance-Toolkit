@@ -13,8 +13,8 @@ Identifies status as Provider, Deployer, Importer, or Distributor.
 
 ### [AI Risk Assessment Calculator](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/)
 A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP protocol.
-- **Methodology:** Deterministic evaluation of Probability (7 factors) and Severity (11 dimensions).
-- **Compliance:** Automated "Stopper Rules" for absolute rights protection and real-time risk heatmap generation.
+- Methodology: deterministic evaluation of Probability (7 factors) and Severity (11 dimensions).
+- Compliance: automated "Stopper Rules" for absolute rights protection and real-time risk heatmap generation.
 
 ---
 

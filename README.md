@@ -27,5 +27,6 @@ A quantitative scoring engine based on the EDPB 2025 guidelines and the FRASP pr
 
 <small>
 Copyright (c) 2024-2026 Ekaterina Kalugina.
+  
 The content of this repository are licensed under the [CC BY-NC-SA 4.0](./LICENSE) license. 
 <small>

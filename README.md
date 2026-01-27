@@ -34,6 +34,4 @@ This toolkit is licensed under a [Creative Commons Attribution-NonCommercial-Sha
 * **Non-Commercial Use:** Integration into paid educational programs, corporate training, or commercial consulting services without explicit written permission is strictly prohibited.
 * **Research & Personal Use:** Feel free to use and adapt these materials for non-commercial purposes with proper attribution.
 
-*Part of ongoing research into Socio-Technical AI Governance and Legal Engineering.*
-
 ---
